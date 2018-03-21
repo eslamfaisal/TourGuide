@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Egypt Guide</string>
+    <!-- Tabs -->
+    <string name="tab_text_1">Home</string>
+    <string name="tab_text_2">Squares</string>
+    <string name="tab_text_3">Monuments</string>
+    <string name="tab_text_4">Mosques</string>
+    <string name="tab_text_5">University</string>
+
+    <!-- Home Screen -->
+    <string name="egypt_description_text">Egypt is a Mediterranean country bordered by the Gaza Strip and Israel to the northeast, the Gulf of Aqaba to the east, the Red Sea to the east and south, Sudan to the south, and Libya to the west. Across the Gulf of Aqaba lies Jordan, and across from the Sinai Peninsula lies Saudi Arabia, although Jordan and Saudi Arabia do not share a land border with Egypt. Egypt emerged as one of the world\'s first nation states in the tenth millennium BC.[15] Considered a cradle of civilisation, Ancient Egypt saw some of the earliest developments of writing, agriculture, urbanisation, organised religion and central government. Iconic monuments such as the Giza Necropolis and its Great Sphinx, as well the ruins of Memphis, Thebes, Karnak, and the Valley of the Kings, reflect this legacy and remain a significant focus of scientific and popular interest. Egypt\'s long and rich cultural heritage is an integral part of its national identity, which has endured, and often assimilated, various foreign influences, including Greek, Persian, Roman, Arab, Ottoman, and European. Egypt was an early and important centre of Christianity, but was largely Islamised in the seventh century and remains a predominantly Muslim country, albeit with a significant Christian minority.</string>
+    <string name="egypt_text_in_home_screen">Egypt</string>
+    <string name="egypt_flag">egypt_flag</string>
+    <string name="egypt_location_latitude">26.820553</string>
+    <string name="egypt_location_longitude">30.802498</string>
+
+    <!-- Squares list -->
+    //tahrir square
+    <string name="tahrir_square_text">El Tahrir Square</string>
+    <string name="tahrir_description">Tahrir Square was the focal point of the 2011 Egyptian Revolution against former president Hosni Mubarak Over 50,000 protesters first occupied the square on 25 January, during which the area\'s wireless services were reported to be impaired In the following days, Tahrir Square continued to be the primary destination for protests in Cairo. On 29 January, Egyptian fighter aircraft flew low over the people gathered in the square. On 30 January, the seventh day of the protests, PIK BBC and other correspondents reported that the number of demonstrators had grown to at least 100,000 and on 31 January, Al Jazeera correspondents reported that the demonstrations had grown to at least 250,000 people. On 1 February, Al Jazeera reported that more than one million protesters peacefully gathered in the square and adjacent streets. However, such media reports that so many people congregated in Cairo’s largest public square are believed to be exaggerated for political purposes and, according to Stratfor\'s analysis, the real number of gathered protesters never exceeded 300,000 people.</string>
+    <string name="tahrir_location_latitude">30.044069</string>
+    <string name="tahrir_location_longitude">31.235512</string>
+    //rabaa square
+    <string name="rabaa_square_text">Rabaa Al Adaweyah</string>
+    <string name="rabaa_square_description">On 14 August 2013, Egyptian security forces and army under the command of general Al SiSi raided two camps of protesters in Cairo: one at al-Nahda Square and a larger one at Rabaa al-Adawiya Square. The two sites had been occupied by supporters of ousted President Mohamed Morsi, who had been removed from office by the military a month earlier in response to a large uprising against him. The camps were raided after initiatives to end the six-week sit-ins by peaceful means failed and as a result of the raids the camps were cleared out within hours. The raids were described by Human Rights Watch as \"one of the world\'s largest killings of demonstrators in a single day in recent history\". According to Human Rights Watch, a minimum of 817 people and more likely at least 1,000 died during the dispersal. However, according to the Egyptian Health Ministry, 638 people were killed on 14 August (of which 595 were civilians and 43 police officers) and at least 3,994 were injured.[5][10][11] The Muslim Brotherhood and the National Coalition for Supporting Legitimacy (NCSL) stated the number of deaths from the Rabaa al-Adawiya Mosque sit-in alone was about 2,600.[6][12] The total casualty count made 14 August the deadliest day in Egypt since the 2011 Egyptian revolution, which had toppled Morsi\'s predecessor Hosni Mubarak.[13] Several world leaders denounced the violence during the sit-in dispersals</string>
+    <string name="rabaa_location_latitude">30.0684433</string>
+    <string name="rabaa_location_longitude">31.321994</string>
+
+    <!-- Monuments list -->
+    //pyramids
+    <string name="pyramids_text_name">Pyramids</string>
+    <string name="pyramids_description">The Egyptian pyramids are ancient pyramid-shaped masonry structures located in Egypt. As of November 2008, sources cite either 118 or 138 as the number of identified Egyptian pyramids Most were built as tombs for the country\'s pharaohs and their consorts during the Old and Middle Kingdom periods. The earliest known Egyptian pyramids are found at Saqqara, northwest of Memphis. The earliest among these is the Pyramid of Djoser (constructed 2630 BC–2611 BC) which was built during the third dynasty. This pyramid and its surrounding complex were designed by the architect Imhotep, and are generally considered to be the world\'s oldest monumental structures constructed of dressed masonry  The most famous Egyptian pyramids are those found at Giza, on the outskirts of Cairo. Several of the Giza pyramids are counted among the largest structures ever built. The Pyramid of Khufu at Giza is the largest Egyptian pyramid</string>
+    <string name="pyramids_location_latitude">29.979235</string>
+    <string name="pyramids_locaion_longitude">31.134202</string>
+    //luxor
+    <string name="luxor_text_name">Luxor</string>
+    <string name="luxor_text_description">Luxor is a city in Upper (southern) Egypt and the capital of Luxor Governorate. The population numbers 506,588 (2012 estimate),[2] with an area of approximately 417 square kilometres (161 sq mi) As the site of the Ancient Egyptian city of Thebes, Luxor has frequently been characterized as the \"world\'s greatest open-air museum\", as the ruins of the temple complexes at Karnak and Luxor stand within the modern city. Immediately opposite, across the River Nile, lie the monuments, temples and tombs of the West Bank Necropolis, which includes the Valley of the Kings and Valley of the Queens.Thousands of tourists from all around the world arrive annually to visit these monuments, contributing greatly to the economy of the modern city.</string>
+    <string name="luxor_location_latitude">25.687243</string>
+    <string name="luxor_location_longitude">32.639636</string>
+
+    <!-- Mosques list -->
+    //alussein
+    <string name="alhussein_text_name">Al-Hussein Mosque</string>
+    <string name="alhussein_text_description">The Al-Hussain Mosque (Arabic: مسجد الإمام الحسين‎; Egyptian Arabic: جامع سيدنا الحسين) is a mosque built in 1154. (Alternative transliterations include Husayn, Hussain, Husayn, and Hussayn; also, the mosque\'s name is prefixed by the honorific title Sayyidna). The mosque is located in Cairo, Egypt, near the Khan El-Khalili bazaar. It is considered to be one of the holiest Islamic sites in Egypt The mosque was built on the cemetery of the Fatimid caliphs, though this was not known until the site\'s archaeological excavation. It is named for Muhammad\'s grandson, Hussain ibn Ali. Dawoodi Bohra and other Shia Muslims believe that Husayn\'s head is buried on the grounds of the mosque. The complex includes a mausoleum, which dates back to the mosque\'s original construction in 1154.</string>
+    <string name="alhussein_location_latitude">30.047819</string>
+    <string name="alhussein_location_longitude">31.263169</string>
+    //ibnalaas
+    <string name="ibnalaas_text_descriptio">The Mosque of Amr ibn al-As (Arabic: جامع عمرو بن العاص‎), also called the Mosque of Amr, was originally built in 641–642 AD, as the center of the newly founded capital of Egypt, Fustat. The original structure was the first mosque ever built in Egypt and the whole of Africa.[1] The location for the mosque was the site of the tent of the commander of the Muslim army, general Amr ibn al-As. One corner of the mosque contains the tomb of his son, \'Abd Allah ibn \'Amr ibn al-\'As. Due to extensive reconstruction over the centuries, nothing of the original building remains, but the rebuilt Mosque is a prominent landmark, and can be seen in what today is known as \"Old Cairo\". It is an active mosque with a devout congregation, and when prayers are not taking place, it is also open to visitors and tourists</string>
+    <string name="ibnelaas_text_name">Amr Ibn Elaas</string>
+    <string name="ibnalaas_location_latitude">30.010122</string>
+    <string name="ibnalaas_location_longitude">31.233137</string>
+
+    <!-- University list -->
+    //ainshams university
+    <string name="ainshams_text_name">Ain Shams</string>
+    <string name="ainshams_text_description">Ain Shams University was founded in July 1950, the third-oldest non-sectarian native public Egyptian university (ancient Islamic universities such as Al-Azhar and private institutions such as the American University in Cairo are older), under the name of Ibrahim Pasha\'s University. Its site used to be a former royal palace, called the Zafarana Palace.[1] The two earlier universities of this kind are Cairo University (Fuad I university formerly) and Alexandria University (Farouk I university formerly). When it was first established, Ain Shams University had a number of faculties and academic institutes, which were later developed into a university.[2] The university\'s academic structure includes 14 faculties, 1 college and 2 high institutes plus 12 centers and special units.</string>
+    <string name="ainshams_location_latitude">30.075807</string>
+    <string name="anishams_location_longitude">31.281116</string>
+    //cairo university
+    <string name="cairouniversity_text_name">Cairo University</string>
+    <string name="cairouniverist_text_description">Cairo University (Egyptian Arabic: جامعة القاهرة‎ Gām‘et El Qāhira, known as the Egyptian University from 1908 to 1940, and King Fuad I University from 1940 to 1952) is Egypt\'s premier public university. Its main campus is in Giza, immediately across the Nile from Cairo. It was founded on 21 December 1908;[1] however, after being housed in various parts of Cairo, its faculties, beginning with the Faculty of Arts, were established on its current main campus in Giza in October 1929. It is the second oldest institution of higher education in Egypt after Al Azhar University, notwithstanding the pre-existing higher professional schools that later became constituent colleges of the university. It was founded and funded as the Egyptian University by a committee of private citizens with royal patronage in 1908 and became a state institution under King Fuad I in 1925.[2] In 1940, four years following his death, the University was renamed King Fuad I University in his honor. It was renamed a second time after the Free Officer’s Coup of 1952.[1] The University currently enrolls approximately 155,000 students in 22 faculties.[3] It counts three Nobel Laureates among its graduates and is one of the 50 largest institutions of higher education in the world by enrollment</string>
+    <string name="cairouniversity_location_latitude">30.027337</string>
+    <string name="cairouniversity_location_longitude">31.208574</string>
+
+</resources>
